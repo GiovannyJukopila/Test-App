@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+html, body { height: 100%;}
+
+body { margin: 20px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.mat-form-field {
+    width: 30%;
+
+}
+.content{
+    background: #ffe259;  
+    background: -webkit-linear-gradient(to right, #ffa751, #ffe259); 
+    background: linear-gradient(to right, #ffa751, #ffe259); 
+    border: black;
+    width: 100%;
+}
