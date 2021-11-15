@@ -1,4 +1,5 @@
-# PRUEBA ANGULAR
+[![Angular-full-color-logo-opt.png](https://i.postimg.cc/RCTJtgSX/Angular-full-color-logo-opt.png)](https://postimg.cc/F17K5gJL)
+# PRUEBA ANGULAR 
 
 Actualmente Angular es uno de los frameworks más utilizados por las compañías debido a su estructuración y metodología de implementación. Además este nos brinda las herramientas necesarias para desarrollar aplicaciones optimizadas; para este caso en particular me permitió hacer las respectivas peticiones a la Api Rest pública mediante el protocolo HttpClient haciendo uso de servicios, componentes, observables y también realizar filtros de búsqueda mediante pipes.
 
@@ -122,4 +123,18 @@ Posteriormente se aplican las condicionales: si la lista está vacía retorna un
 - **Uso de Bootstrap**
 
 	En el template se hace una iteración mediante *ngFor para que nos muestre cada uno de los atributos que queremos de la rest api  ‘app.component.html’ a su vez utilizamos un poco de bootstrap para mejorar la apariencia de la app (Tablas, Font-family e iconos)
+ 
+ ## Pruebas funcionales 
+ 
+  - ### Pantalla inicial
+   [![Captura-de-Pantalla-2021-11-15-a-la-s-2-44-33-p-m.png](https://i.postimg.cc/Hs5jT3Jp/Captura-de-Pantalla-2021-11-15-a-la-s-2-44-33-p-m.png)](https://postimg.cc/HVYT2w4K)
+   
+  - ### Busqueda por Nombre
+   [![Captura-de-Pantalla-2021-11-15-a-la-s-2-45-09-p-m.png](https://i.postimg.cc/13QXX66D/Captura-de-Pantalla-2021-11-15-a-la-s-2-45-09-p-m.png)](https://postimg.cc/1fvsY8vz)
+   
+  - ### Busqueda por Email
+   [![Captura-de-Pantalla-2021-11-15-a-la-s-2-49-15-p-m.png](https://i.postimg.cc/1zRzcQvt/Captura-de-Pantalla-2021-11-15-a-la-s-2-49-15-p-m.png)](https://postimg.cc/DSDFntkk)
+   
+  - ### Busqueda por Palabra clave
+   [![Captura-de-Pantalla-2021-11-15-a-la-s-3-56-17-p-m.png](https://i.postimg.cc/jjsSRbNT/Captura-de-Pantalla-2021-11-15-a-la-s-3-56-17-p-m.png)](https://postimg.cc/mP5sSK8p)
 
